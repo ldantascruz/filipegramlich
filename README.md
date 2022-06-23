@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**filipegramlich/filipegramlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 
+I'm a Web developer.
+I'm studying web development in the first Explorer edition at [Rocketseat](https://www.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+#### Current Stack 
+- :zap:Main Language : `Java Script`
+- :tada:FrontEnd: `HTML5`, `CSS3`,`Java Script`
+- :art:Layout Design : `Figma`
+- :card_file_box:Version Code Control : `Git e GitHub`
+- :hammer:Tools:  `VScode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts :rocket:
+- 📧Email: filipe.ogramlich@gmail.com
+- 🟣Linkedin: https://www.linkedin.com/in/filipe-ogramlich/
